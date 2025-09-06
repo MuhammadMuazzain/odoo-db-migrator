@@ -34,3 +34,6 @@ Future Enhancements
 🔹 Adding support for more Odoo tables.
 🔹 Optimizing query performance for large datasets.
 
+
+Built with love my Muhammad Muazzain.
+
